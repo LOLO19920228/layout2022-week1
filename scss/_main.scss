@@ -1,0 +1,77 @@
+body {
+  font-family: PingFang, "San Francisco", sans-serif;
+  line-height: 1.5;
+}
+
+.fz-title1 {
+  font-size: 80px;
+  line-height: 95px;
+}
+.fz-title2 {
+  font-size: 32px;
+}
+.fz-title2-en {
+  font-size: 24px;
+  margin-left: 16px;
+  vertical-align: 5px;
+}
+.fz-title2-en-red {
+  color: #a00404;
+}
+.fz-1 {
+  font-size: 24px;
+}
+.fz-2 {
+  font-size: 20px;
+}
+.bottomLine-b-2px {
+  border-bottom: 2px solid black;
+}
+.bottomLine-b {
+  border-bottom: 1px solid black;
+}
+.bottomLine-w {
+  border-bottom: 1px solid white;
+}
+.leftLine-w {
+  border-left: 1px solid white;
+}
+.leftLine-grey {
+  border-left: 1px solid #96a9c4;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.spBackground {
+  background: #415165;
+}
+.skillsContainer {
+  width: 996px;
+  margin: 0 auto;
+}
+.skillsContainer ul,
+.skillsContainer li {
+  width: 200px;
+}
+.workExperienceImg {
+  height: 100px;
+  width: 100px;
+}
+.workExperienceContent {
+  width: 642px;
+}
+
+// 微調margin(沒限制高,所以border-box無作用)
+.mb-3-border-2 {
+  margin-bottom: 22px;
+}
+.pb-1-border-1 {
+  padding-bottom: 7px;
+}
+// 有一行的line-height實際是28px
+.line-heaght-fix {
+  line-height: 28px;
+}
