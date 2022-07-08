@@ -153,6 +153,7 @@ img {
 
 .d-inline-block {
   display: inline-block;
+  vertical-align: top;
 }
 
 .d-flex {
@@ -393,8 +394,4 @@ body {
 
 .pb-1-border-1 {
   padding-bottom: 7px;
-}
-
-.line-height-fix {
-  line-height: 28px;
 }/*# sourceMappingURL=all.css.map */
