@@ -130,6 +130,8 @@ table {
 img {
   max-width: 100%;
   height: auto;
+  // 解決inline-block高度不一致問題
+  vertical-align: middle;
 }
 *,
 *::after,

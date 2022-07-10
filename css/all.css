@@ -136,6 +136,7 @@ table {
 img {
   max-width: 100%;
   height: auto;
+  vertical-align: middle;
 }
 
 *,
@@ -153,7 +154,6 @@ img {
 
 .d-inline-block {
   display: inline-block;
-  vertical-align: top;
 }
 
 .d-flex {
