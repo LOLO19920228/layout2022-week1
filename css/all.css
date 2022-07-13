@@ -156,6 +156,10 @@ img {
   display: inline-block;
 }
 
+.d-block {
+  display: block;
+}
+
 .d-flex {
   display: flex;
 }
@@ -230,6 +234,10 @@ img {
 
 .font-italic {
   font-style: italic;
+}
+
+.m-0a {
+  margin: 0 auto;
 }
 
 .mt-3 {
@@ -394,4 +402,8 @@ body {
 
 .pb-1-border-1 {
   padding-bottom: 7px;
+}
+
+footer a:hover {
+  font-weight: 700;
 }/*# sourceMappingURL=all.css.map */

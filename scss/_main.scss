@@ -53,6 +53,7 @@ body {
 .skillsContainer {
   width: 996px;
   margin: 0 auto;
+
 }
 .skillsContainer ul,
 .skillsContainer li {
@@ -78,3 +79,7 @@ body {
 // .line-height-fix {
 //   line-height: 28px;
 // }
+
+footer a:hover{
+font-weight: 700;
+}
